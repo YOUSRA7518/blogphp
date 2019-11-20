@@ -1,0 +1,14 @@
+/* line 1, ../sass/compass.scss */
+h1 {
+  font-size: 45px;
+}
+
+/* line 4, ../sass/compass.scss */
+.text {
+  font-size: 20px;
+}
+/* line 6, ../sass/compass.scss */
+.text a {
+  font-size: 10px;
+  color: red;
+}
